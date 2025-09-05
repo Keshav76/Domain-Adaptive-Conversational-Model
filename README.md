@@ -211,19 +211,6 @@ flake8 src tests
 
 ---
 
-## Contributing
-
-Contributions are welcome! Open an issue or PR with a clear description of your change, testing steps, and rationale.
-
----
-
 ## License & Attribution
 
 Specify project license (e.g., MIT) and include attributions for any public corpora used.
-
----
-
-## Contact
-
-Project owner: `Keshav76`
-Repo: [https://github.com/Keshav76/Domain-Adaptive-Conversational-Model](https://github.com/Keshav76/Domain-Adaptive-Conversational-Model)
