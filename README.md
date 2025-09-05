@@ -1,10 +1,5 @@
 # Domain Adaptive Conversational Model
 
-[GitHub Repository](https://github.com/Keshav76/Domain-Adaptive-Conversational-Model)
-
-**Duration:** Jun 2025 — Sep 2025
-**Type:** Self Project
-
 ---
 
 ## Project Overview
@@ -72,23 +67,6 @@ python -m venv .venv
 source .venv/bin/activate
 pip install --upgrade pip
 pip install -r requirements.txt
-```
-
-`requirements.txt` should include (example):
-
-```
-torch>=2.0
-transformers>=4.30
-datasets
-peft
-accelerate
-sentencepiece
-spacy
-nltk
-gradio   # optional for demo
-pytest
-black
-flake8
 ```
 
 ### 2. Prepare dataset
